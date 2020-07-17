@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-contained {
+    margin-left: 20px;
+}
+
+.flex2{
+    display:flex;
+    flex-direction: row;
+}
